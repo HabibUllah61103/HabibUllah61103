@@ -1,23 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:7c3aed,100:d946ef&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:7c3aed,100:d946ef&height=100&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=48&duration=1500&pause=800&color=e879f9&center=true&vCenter=true&width=800&height=70&lines=Habib+Ullah;Full-Stack+Software+Engineer" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=620&lines=Event-driven+backends+%2B+AI+integrations;30%2B+projects+shipped;Karachi%2C+Pakistan" />
+<div align="center">
 
-<p>
+<table>
+<tr>
+<td width="60%" align="left">
+
+<h1>Habib Ullah</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=e879f9&left=true&vCenter=true&width=440&lines=Full-Stack+Software+Engineer;Event-driven+backends+%2B+AI;30%2B+projects+shipped;Karachi%2C+Pakistan" />
+
+<br/>
+
 <a href="https://wakatime.com/@018bfd9b-8343-4982-aec5-a467a491e487"><img src="https://wakatime.com/badge/user/018bfd9b-8343-4982-aec5-a467a491e487.svg" /></a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=HabibUllah61103.HabibUllah61103&style=flat-square&color=d946ef" />
-</p>
+
+</td>
+<td width="40%" align="center">
+<img src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/dev-coding-dark.gif" alt="developer coding animation" width="100%" />
+</td>
+</tr>
+</table>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1033&height=2" width="100%"/>
 
 ## About Me
-
-<img align="right" width="38%" src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/dev-coding-dark.gif" alt="developer coding animation" />
 
 Software engineer, backend-leaning. I build web platforms, event-driven backends, and AI integrations.
 
@@ -26,8 +39,6 @@ Software engineer, backend-leaning. I build web platforms, event-driven backends
 - Currently exploring: WebGPU, Rust to WASM, ONNX Runtime, local-first sync.
 - Ask me about: NestJS, event-driven architecture, AWS, AI integrations.
 - Reach me on Discord: **hu_kraken_7**
-
-<br clear="both"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1033&height=2" width="100%"/>
 
