@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:d946ef&height=240&section=header&text=Habib%20Ullah&desc=Full-Stack%20Software%20Engineer&descSize=21&fontSize=54&fontColor=ffffff&descAlignY=64&animation=fadeIn&fontAlignY=34" width="100%"/>
+<img src="https://files.catbox.moe/aj6c03.svg" width="100%" alt="Habib Ullah - Full-Stack Software Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=e879f9&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Event-driven+backends+%2B+AI+integrations;30%2B+projects+shipped;Karachi%2C+Pakistan" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=e879f9&center=true&vCenter=true&width=700&lines=%3C+Event-driven+backends+%2F%3E;%3C+AI+integrations+%2F%3E;%3C+30%2B+projects+shipped+%2F%3E" />
 
 <p>
 <a href="https://wakatime.com/@018bfd9b-8343-4982-aec5-a467a491e487"><img src="https://wakatime.com/badge/user/018bfd9b-8343-4982-aec5-a467a491e487.svg" /></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HabibUllah61103.HabibUllah61103&style=flat-square&color=d946ef" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=HabibUllah61103.HabibUllah61103&style=for-the-badge&color=d946ef" />
 </p>
 
 </div>
@@ -58,6 +58,10 @@ Software engineer, backend-leaning. I build web platforms, event-driven backends
 </tr>
 </table>
 
+<img src="https://github-profile-trophy.vercel.app/?username=HabibUllah61103&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HabibUllah61103&theme=redical&hide_border=true&bg_color=0a0a10&color=d946ef&line=d946ef&point=a855f7" width="100%" />
+
 </div>
 
 ## Coding Activity
@@ -82,8 +86,6 @@ Software engineer, backend-leaning. I build web platforms, event-driven backends
 <a href="https://discord.com/users/1075468787043815454"><img src="https://img.shields.io/badge/Discord-hu_kraken_7-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:hu61103@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d946ef,100:6d28d9&height=110&section=footer" width="100%"/>
+<br/>
 
 </div>
