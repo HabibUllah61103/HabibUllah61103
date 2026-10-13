@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=d6f93c&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Event-driven+backends+%2B+AI+integrations;30%2B+projects+shipped;Karachi%2C+Pakistan" />
 
 [![wakatime](https://wakatime.com/badge/user/018bfd9b-8343-4982-aec5-a467a491e487.svg)](https://wakatime.com/@018bfd9b-8343-4982-aec5-a467a491e487)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=HabibUllah61103.HabibUllah61103)
 
 </div>
 
@@ -65,9 +66,17 @@ Software engineer, backend-leaning. I build web platforms, event-driven backends
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=HabibUllah61103&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a10&title_color=d6f93c&icon_color=d6f93c&text_color=c9d1d9" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibUllah61103&layout=compact&theme=dark&hide_border=true&bg_color=0a0a10&title_color=d6f93c&text_color=c9d1d9" height="170" />
-
 <img src="https://streak-stats.demolab.com/?user=HabibUllah61103&theme=dark&hide_border=true&background=0a0a10&ring=d6f93c&fire=d6f93c&currStreakLabel=d6f93c" />
+
+</div>
+
+---
+
+## Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018bfd9b-8343-4982-aec5-a467a491e487&theme=dark&hide_border=true&bg_color=0a0a10&title_color=d6f93c&text_color=c9d1d9" width="60%" />
 
 </div>
 
@@ -81,6 +90,14 @@ Software engineer, backend-leaning. I build web platforms, event-driven backends
 <a href="https://habibullah61103.github.io/Habib-Ullah-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-d6f93c?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 <a href="mailto:hu61103@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/profile/Habib_ullah"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
 
