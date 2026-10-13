@@ -61,6 +61,10 @@ Software engineer, backend-leaning. I build web platforms, event-driven backends
 </tr>
 </table>
 
+<img src="https://github-profile-trophy.vercel.app/?username=HabibUllah61103&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HabibUllah61103&theme=redical&hide_border=true&bg_color=0a0a10&color=d946ef&line=d946ef&point=a855f7" width="100%" />
+
 </div>
 
 ## Coding Activity
