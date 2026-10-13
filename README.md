@@ -10,8 +10,6 @@
 <img src="https://img.shields.io/badge/Focus-Backend_leaning-a855f7?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
-<img src="https://files.catbox.moe/ujbrbo.gif" alt="warrior coding on laptop" width="60%" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1033&height=2" width="100%"/>
