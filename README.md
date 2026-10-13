@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Focus-Backend_leaning-a855f7?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
-<img src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/dev-coding-dark.gif" alt="developer coding animation" width="60%" />
+<img src="https://files.catbox.moe/ujbrbo.gif" alt="warrior coding on laptop" width="60%" />
 
 </div>
 
