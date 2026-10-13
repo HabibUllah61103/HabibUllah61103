@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/pkcbmb.webp" width="100%" alt="Habib Ullah - Full-Stack Software Engineer" />
+<img src="https://files.catbox.moe/mnwn5x.svg" width="100%" alt="Habib Ullah - Full-Stack Software Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=e879f9&center=true&vCenter=true&width=700&lines=%3C+Event-driven+backends+%2F%3E;%3C+AI+integrations+%2F%3E;%3C+30%2B+projects+shipped+%2F%3E" />
 
