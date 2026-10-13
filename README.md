@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:d946ef&height=240&section=header&text=Habib%20Ullah&desc=Full-Stack%20Software%20Engineer&descSize=21&fontSize=54&fontColor=ffffff&descAlignY=64&animation=fadeIn&fontAlignY=34" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:7c3aed,100:d946ef&height=260&section=header&text=Habib%20Ullah&desc=Full-Stack%20Software%20Engineer&descSize=22&fontSize=58&fontColor=ffffff&descAlignY=66&animation=fadeIn&fontAlignY=32" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=e879f9&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Event-driven+backends+%2B+AI+integrations;30%2B+projects+shipped;Karachi%2C+Pakistan" />
 
@@ -15,6 +15,8 @@
 
 ## About Me
 
+<img align="right" width="38%" src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/dev-coding-dark.gif" alt="developer coding animation" />
+
 Software engineer, backend-leaning. I build web platforms, event-driven backends, and AI integrations.
 
 - Software Engineer at **swiftCognition** (Oct 2026 to Present). Image editing platform across web, browser extension, PWA, mobile, and desktop.
@@ -22,6 +24,8 @@ Software engineer, backend-leaning. I build web platforms, event-driven backends
 - Currently exploring: WebGPU, Rust to WASM, ONNX Runtime, local-first sync.
 - Ask me about: NestJS, event-driven architecture, AWS, AI integrations.
 - Reach me on Discord: **hu_kraken_7**
+
+<br clear="both"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1033&height=2" width="100%"/>
 
@@ -84,6 +88,6 @@ Software engineer, backend-leaning. I build web platforms, event-driven backends
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d946ef,100:6d28d9&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d946ef,50:7c3aed,100:2e1065&height=140&section=footer" width="100%"/>
 
 </div>
