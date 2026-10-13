@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1e1033,40:6d28d9,70:a855f7,100:d946ef&height=320&text=Habib%20Ullah&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Karachi%2C%20Pakistan&descSize=20&fontSize=64&fontColor=ffffff&descAlignY=70&animation=scaleIn&fontAlignY=38&stroke=d946ef&strokeWidth=2" width="100%"/>
+<img src="https://files.catbox.moe/onnh4s.webp" width="100%" alt="Habib Ullah - Full-Stack Software Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=e879f9&center=true&vCenter=true&width=700&lines=%3C+Event-driven+backends+%2F%3E;%3C+AI+integrations+%2F%3E;%3C+30%2B+projects+shipped+%2F%3E" />
 
@@ -87,8 +87,6 @@ Software engineer, backend-leaning. I build web platforms, event-driven backends
 <a href="https://discord.com/users/1075468787043815454"><img src="https://img.shields.io/badge/Discord-hu_kraken_7-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:hu61103@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d946ef,50:7c3aed,100:2e1065&height=140&section=footer" width="100%"/>
+<br/>
 
 </div>
