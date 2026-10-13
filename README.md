@@ -16,7 +16,6 @@
 Software engineer, backend-leaning. I build web platforms, event-driven backends, and AI integrations.
 
 - Software Engineer at swiftCognition (Oct 2026 to Present). Image editing platform across web, browser extension, PWA, mobile, and desktop.
-- Previously at Zenkoders (Sep 2024 to Sep 2026). Shipped 22 projects: SaaS platforms, e-commerce, hospital scheduling, DevOps on AWS.
 - Flagship build: Flowbills, an AI invoice processing platform. Email ingestion pipeline with SES, S3, Lambda, SQS, a Python AI server, and NestJS.
 - Currently exploring: WebGPU, Rust to WASM, ONNX Runtime, local-first sync.
 - Ask me about: NestJS, event-driven architecture, AWS, AI integrations.
@@ -46,21 +45,6 @@ Software engineer, backend-leaning. I build web platforms, event-driven backends
 
 ---
 
-## Featured Projects
-
-| Project | What it is |
-|---|---|
-| **Flowbills** | AI invoice processing platform with an event-driven email ingestion pipeline. |
-| **All Bettors** | Fantasy gaming platform with real-event betting. PWA frontend, Node.js backend, four apps (web, support, game, Strapi admin). |
-| **Medroster** | Hospital staff scheduling platform. NestJS and PostgreSQL backend, Next.js frontend. |
-| **Doorstep-Box** | E-commerce platform. Next.js, Supabase, Prisma, with Best Buy and eBay API integrations. |
-| **FleetTrack WhatsApp Bot** | Fleet support bot. Free-form queries filtered with Mistral AI, dual-SIM SMS routing. |
-| **iNerde Academy** | School management backend. NestJS and PostgreSQL, CI/CD on EC2. |
-
-*Full details on my [portfolio](https://habibullah61103.github.io/Habib-Ullah-Portfolio/).*
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -76,7 +60,7 @@ Software engineer, backend-leaning. I build web platforms, event-driven backends
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018bfd9b-8343-4982-aec5-a467a491e487&theme=dark&hide_border=true&bg_color=0a0a10&title_color=d6f93c&text_color=c9d1d9" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=018bfd9b-8343-4982-aec5-a467a491e487&theme=dark&hide_border=true&bg_color=0a0a10&title_color=d6f93c&text_color=c9d1d9&langs_count=10" width="60%" />
 
 </div>
 
