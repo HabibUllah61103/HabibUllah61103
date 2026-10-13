@@ -5,26 +5,25 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=d6f93c&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Event-driven+backends+%2B+AI+integrations;30%2B+projects+shipped;Karachi%2C+Pakistan" />
 
 [![wakatime](https://wakatime.com/badge/user/018bfd9b-8343-4982-aec5-a467a491e487.svg)](https://wakatime.com/@018bfd9b-8343-4982-aec5-a467a491e487)
-![Visitors](https://komarev.com/ghpvc/?username=HabibUllah61103&color=d6f93c&style=flat-square&label=profile+views)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I build production systems end to end: event-driven backends, full-stack web platforms, and AI integrations that do real work.
+Software engineer, backend-leaning. I build web platforms, event-driven backends, and AI integrations.
 
-- 🔭 **Software Engineer @ swiftCognition** (Oct 2026 – Present) — image editing platform across web, extension, PWA, mobile, and desktop
-- 💼 **Previously @ Zenkoders** (Sep 2024 – Sep 2026) — shipped 22 projects: SaaS, e-commerce, hospital scheduling, DevOps on AWS
-- 🚀 Flagship build: **Flowbills** — AI invoice processing (SES → S3 → Lambda → SQS → Python AI server → NestJS)
-- 🌱 Exploring: WebGPU · Rust → WASM · ONNX Runtime · local-first sync
-- 💬 Ask me about: NestJS, event-driven architecture, AWS, AI integrations
-- 📫 Reach me: **hu61103@gmail.com**
+- Software Engineer at swiftCognition (Oct 2026 to Present). Image editing platform across web, browser extension, PWA, mobile, and desktop.
+- Previously at Zenkoders (Sep 2024 to Sep 2026). Shipped 22 projects: SaaS platforms, e-commerce, hospital scheduling, DevOps on AWS.
+- Flagship build: Flowbills, an AI invoice processing platform. Email ingestion pipeline with SES, S3, Lambda, SQS, a Python AI server, and NestJS.
+- Currently exploring: WebGPU, Rust to WASM, ONNX Runtime, local-first sync.
+- Ask me about: NestJS, event-driven architecture, AWS, AI integrations.
+- Reach me: hu61103@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -36,32 +35,32 @@ I build production systems end to end: event-driven backends, full-stack web pla
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask,fastapi,postgres,prisma,supabase&theme=dark&perline=9" />
 
-**DevOps & Tools**
+**DevOps and Tools**
 
 <img src="https://skillicons.dev/icons?i=aws,vercel,nginx,docker,git,github,linux,vscode&theme=dark&perline=8" />
 
-**AI / Integrations:** OpenAI & ChatGPT APIs · Mistral AI · prompt engineering · Baileys (WhatsApp)
+**AI and Integrations:** OpenAI and ChatGPT APIs, Mistral AI, prompt engineering, Baileys (WhatsApp)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it is |
 |---|---|
-| **Flowbills** | AI invoice processing platform — event-driven email ingestion pipeline. The most significant thing I've built. |
-| **All Bettors** | Fantasy gaming platform with real-event betting — PWA + Node.js, 4 apps (web, support, game, Strapi admin). |
-| **Medroster** | Hospital staff scheduling platform — NestJS + PostgreSQL, Next.js frontend. |
-| **Doorstep-Box** | E-commerce platform — Next.js + Supabase + Prisma, Best Buy & eBay API integrations. |
-| **FleetTrack WhatsApp Bot** | Fleet support bot — free-form queries filtered with Mistral AI, dual-SIM SMS routing. |
-| **iNerde Academy** | School management backend — NestJS + PostgreSQL, CI/CD on EC2. |
+| **Flowbills** | AI invoice processing platform with an event-driven email ingestion pipeline. |
+| **All Bettors** | Fantasy gaming platform with real-event betting. PWA frontend, Node.js backend, four apps (web, support, game, Strapi admin). |
+| **Medroster** | Hospital staff scheduling platform. NestJS and PostgreSQL backend, Next.js frontend. |
+| **Doorstep-Box** | E-commerce platform. Next.js, Supabase, Prisma, with Best Buy and eBay API integrations. |
+| **FleetTrack WhatsApp Bot** | Fleet support bot. Free-form queries filtered with Mistral AI, dual-SIM SMS routing. |
+| **iNerde Academy** | School management backend. NestJS and PostgreSQL, CI/CD on EC2. |
 
 *Full details on my [portfolio](https://habibullah61103.github.io/Habib-Ullah-Portfolio/).*
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -70,23 +69,11 @@ I build production systems end to end: event-driven backends, full-stack web pla
 
 <img src="https://streak-stats.demolab.com/?user=HabibUllah61103&theme=dark&hide_border=true&background=0a0a10&ring=d6f93c&fire=d6f93c&currStreakLabel=d6f93c" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HabibUllah61103&theme=github-dark&hide_border=true&area=true&bg_color=0a0a10&color=d6f93c&line=d6f93c&point=ffffff" width="95%" />
-
 </div>
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HabibUllah61103&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
----
-
-## 🔗 Connect
+## Connect
 
 <div align="center">
 
