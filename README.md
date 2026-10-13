@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:7c3aed,100:d946ef&height=260&section=header&text=Habib%20Ullah&desc=Full-Stack%20Software%20Engineer&descSize=22&fontSize=58&fontColor=ffffff&descAlignY=66&animation=fadeIn&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:7c3aed,100:d946ef&height=120&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=e879f9&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Event-driven+backends+%2B+AI+integrations;30%2B+projects+shipped;Karachi%2C+Pakistan" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=48&duration=1500&pause=800&color=e879f9&center=true&vCenter=true&width=800&height=70&lines=Habib+Ullah;Full-Stack+Software+Engineer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=620&lines=Event-driven+backends+%2B+AI+integrations;30%2B+projects+shipped;Karachi%2C+Pakistan" />
 
 <p>
 <a href="https://wakatime.com/@018bfd9b-8343-4982-aec5-a467a491e487"><img src="https://wakatime.com/badge/user/018bfd9b-8343-4982-aec5-a467a491e487.svg" /></a>
