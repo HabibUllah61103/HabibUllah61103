@@ -1,30 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:7c3aed,100:d946ef&height=100&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1e1033,40:6d28d9,70:a855f7,100:d946ef&height=320&text=Habib%20Ullah&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Karachi%2C%20Pakistan&descSize=20&fontSize=64&fontColor=ffffff&descAlignY=70&animation=scaleIn&fontAlignY=38&stroke=d946ef&strokeWidth=2" width="100%"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=e879f9&center=true&vCenter=true&width=700&lines=%3C+Event-driven+backends+%2F%3E;%3C+AI+integrations+%2F%3E;%3C+30%2B+projects+shipped+%2F%3E" />
 
-<div align="center">
-
-<table>
-<tr>
-<td width="60%" align="left">
-
-<h1>Habib Ullah</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=e879f9&left=true&vCenter=true&width=440&lines=Full-Stack+Software+Engineer;Event-driven+backends+%2B+AI;30%2B+projects+shipped;Karachi%2C+Pakistan" />
-
-<br/>
-
+<p>
 <a href="https://wakatime.com/@018bfd9b-8343-4982-aec5-a467a491e487"><img src="https://wakatime.com/badge/user/018bfd9b-8343-4982-aec5-a467a491e487.svg" /></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HabibUllah61103.HabibUllah61103&style=flat-square&color=d946ef" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=HabibUllah61103.HabibUllah61103&style=for-the-badge&color=d946ef" />
+<img src="https://img.shields.io/badge/Focus-Backend_leaning-a855f7?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
 
-</td>
-<td width="40%" align="center">
-<img src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/dev-coding-dark.gif" alt="developer coding animation" width="100%" />
-</td>
-</tr>
-</table>
+<img src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/dev-coding-dark.gif" alt="developer coding animation" width="60%" />
 
 </div>
 
