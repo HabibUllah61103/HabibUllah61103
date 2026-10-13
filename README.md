@@ -21,7 +21,7 @@ Software engineer, backend-leaning. I build web platforms, event-driven backends
 - Flagship build: **Flowbills**, an AI invoice processing platform. Email ingestion pipeline with SES, S3, Lambda, SQS, a Python AI server, and NestJS.
 - Currently exploring: WebGPU, Rust to WASM, ONNX Runtime, local-first sync.
 - Ask me about: NestJS, event-driven architecture, AWS, AI integrations.
-- Reach me: **hu61103@gmail.com** · Discord: **hu_kraken_7**
+- Reach me on Discord: **hu_kraken_7**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a10&height=2" width="100%"/>
 
@@ -78,7 +78,6 @@ Software engineer, backend-leaning. I build web platforms, event-driven backends
 
 <a href="https://www.linkedin.com/in/habib-ullah-568562248/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://habibullah61103.github.io/Habib-Ullah-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-d6f93c?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-<a href="mailto:hu61103@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/profile/Habib_ullah"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-hu_kraken_7-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
