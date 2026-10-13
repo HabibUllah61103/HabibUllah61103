@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/onnh4s.webp" width="100%" alt="Habib Ullah - Full-Stack Software Engineer" />
+<img src="https://files.catbox.moe/pkcbmb.webp" width="100%" alt="Habib Ullah - Full-Stack Software Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=e879f9&center=true&vCenter=true&width=700&lines=%3C+Event-driven+backends+%2F%3E;%3C+AI+integrations+%2F%3E;%3C+30%2B+projects+shipped+%2F%3E" />
 
 <p>
 <a href="https://wakatime.com/@018bfd9b-8343-4982-aec5-a467a491e487"><img src="https://wakatime.com/badge/user/018bfd9b-8343-4982-aec5-a467a491e487.svg" /></a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=HabibUllah61103.HabibUllah61103&style=for-the-badge&color=d946ef" />
-<img src="https://img.shields.io/badge/Focus-Backend_leaning-a855f7?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 </div>
