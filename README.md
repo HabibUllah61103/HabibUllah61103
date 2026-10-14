@@ -53,7 +53,8 @@ Software engineer, backend-leaning. I build web platforms, event-driven backends
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=HabibUllah61103&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a10&title_color=d946ef&icon_color=d946ef&text_color=c9d1d9" /></td>
+<td><img src="https://github-stats-extended.vercel.app/api??username=HabibUllah61103&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a10&title_color=d946ef&icon_color=d946ef&text_color=c9d1d9" /></td>
+<!-- <td><img src="https://github-readme-stats.vercel.app/api?username=HabibUllah61103&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a10&title_color=d946ef&icon_color=d946ef&text_color=c9d1d9" /></td> -->
 <td><img src="https://streak-stats.demolab.com?user=HabibUllah61103&theme=dark&hide_border=true&timezone=PKT&background=0a0a10&ring=d946ef&fire=d946ef&currStreakLabel=d946ef" /></td>
 </tr>
 </table>
